@@ -10,22 +10,24 @@ ul{
     font-size: 40px;
     font-weight: bold;
     text-align: center;
+    display: block;
+    width:750px;
+    margin: -40px auto;
+    border:solid 5px   rgb(155, 47, 47);
 }
 
 body{
     font-family: serif;
+    background-color: rgba(52, 194, 194, 0.473);
 }
 
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top:90px;
     width: 600px;
     height: auto;
-}
-
-body{
-    background-color: rgba(52, 194, 194, 0.473);
 }
 
 a{
